@@ -1,4 +1,4 @@
-const API_KEY = "REEMPLAZA CON TU API KEY DE OPENWEATHERMAP";
+const API_KEY = "TU API KEY DE OPENWEATHERMAP";
 const UNSPLASH_ACCESS_KEY = "REEMPLAZA CON TU API KEY  UNSPLASH";
 let cityInput = document.getElementById("cityInput");
 let searchButton = document.getElementById("searchButton");
