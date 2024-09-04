@@ -47,6 +47,12 @@ El comportamiento de la aplicación está controlado por el archivo script.js, q
 
 - ¡Las contribuciones son bienvenidas! Si tienes alguna idea o mejora, siéntete libre.
 
+  **Contacto:**
+* Móvil: +34 635715157
+* Correo: jorgesantiagosenas@gmail.com
+* GitHub: https://github.com/SenasDev
+* Linkedin: https://www.linkedin.com/in/senas-dev
+
 - Haz un fork del proyecto:
 Crea una nueva rama (git checkout -b mejora/nueva-funcion)
 Realiza tus cambios y haz commit (git commit -am 'Añadir nueva función')
